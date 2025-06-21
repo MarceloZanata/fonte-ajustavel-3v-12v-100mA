@@ -1,0 +1,1 @@
+# fonte-ajustavel-3v-12v-100mA
