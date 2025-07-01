@@ -25,7 +25,7 @@ Projetar e montar uma fonte de tensão ajustável, capaz de fornecer uma saída 
 Valor Total: R$ 23,36
 
 ## Imagem do Circuito
-![Imagem do projeto no Falstad](img/falstad.jpg)
+![Imagem do projeto no Falstad](img/falstad.png)
 ![Imagem do projeto na protoboard](img/proto.jpg)
 
 ## Projeto no Falstad
