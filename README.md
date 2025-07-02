@@ -10,16 +10,16 @@ Projetar e montar uma fonte de tensão ajustável, capaz de fornecer uma saída 
 | Quantidade     | Componente | Descrição | Valor |
 | ---   | ---                 | ---                | ---      |
 | 1 	| [Transformador] 	  | 18 V			   | R$ 0,00  |
-| 1     | [Protoboard] 		  | Pequena 400 furos  | R$ 0,00  |
-| 1     | [Capacitor] 	      | 470 uF / 35 V      | R$ 5,44  |
-| 1     | [Potenciômetro]     | 10 kΩ 1 W 	       | R$ 6,79  |
-| 1     | [Resistor] 	      | 1 kΩ 1/4 W         | R$ 0,35  |
-| 1     | [Resistor] 	 	  | 4 kΩ 1/4 W         | R$ 0,35  |
-| 1     | [Resistor]          | 5.6 kΩ 1/4 W       | R$ 0,35  |
-| 1     | [Diodo Zener]       | 13V 1 W            | R$ 0,49  |
-| 1     | [LED] 			  | 5mm vermelho       | R$ 0,49  |
-| 1     | [Transistor] 		  | NPN 2N3904   	   | R$ 1,55  |
-| 4 	| [Diodo Retificador] | 1N4007 		       | R$ 0,76  |
+| 1     | [Protoboard] 		  | Pequena 400 furos  | R$ 21,70  |
+| 1     | [Capacitor] 	      | 470 uF / 35 V      | R$ 2,80  |
+| 1     | [Potenciômetro]     | 10 kΩ 1 W 	       | R$ 7,00  |
+| 1     | [Resistor] 	      | 1 kΩ 1/4 W         | R$ 0,70  |
+| 1     | [Resistor] 	 	  | 3.9 kΩ 1/4 W         | R$ 0,70  |
+| 1     | [Resistor]          | 5.6 kΩ 1/4 W       | R$ 0,70  |
+| 1     | [Diodo Zener]       | 13V 1 W            | R$ 0,50  |
+| 1     | [LED] 			  | 5mm vermelho       | R$ 0,50  |
+| 1     | [Transistor] 		  | NPN 2N3904   	   | R$ 1,60  |
+| 4 	| [Diodo Retificador] | 1N4007 		       | R$ 2,00  |
 | 1     | [Kit Jumper]        | Macho/Macho        | R$ 6.79  |
 
 Valor Total: R$ 23,36
@@ -38,4 +38,4 @@ Valor Total: R$ 23,36
 ![Imagem do PCB](img/pcb-eagle.png)
 
 ## Cálculo dos componentes
-![Imagem dos Cálculos](img/calculos.png)
+![Imagem dos Cálculos](img/calculos.jpg)
