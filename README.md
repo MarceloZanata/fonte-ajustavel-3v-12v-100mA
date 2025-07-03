@@ -4,6 +4,10 @@
 Projetar e montar uma fonte de tensão ajustável, capaz de fornecer uma saída variável entre 3V e 12V, com corrente máxima de 100mA.
 
 ## Grupo:
+- David Icheng Wang Chou - 16861870
+- Erik Min Soo Chung - 15450334
+- Gabriel Moura - 16867383
+- Luís Henrique Fonseca Aguilar - 16885720
 - Marcelo da Silva Zanata - 16831070
 
 ## Componentes Eletrônicos
