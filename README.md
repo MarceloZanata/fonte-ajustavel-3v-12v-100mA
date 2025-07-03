@@ -26,12 +26,15 @@ Valor Total: R$ 38,20
 
 ## Vídeo Explicando o Projeto
 [Link para o vídeo no YouTube](https://youtu.be/FGgIoPbJn9w)
+
 ## Imagem do Circuito
 ![Imagem do projeto no Falstad](img/falstad.png)
-![Imagem do projeto na protoboard](img/proto.jpg)
 
 ## Projeto no Falstad
 [Link para o projeto](https://tinyurl.com/245nzmpe)
+
+## Imagem do Projeto Finalizado
+![Imagem do projeto na protoboard](img/projeto.jpg)
 
 ## Projeto no Eagle
 ![Imagem do Esquemático](img/schema-eagle.png)
